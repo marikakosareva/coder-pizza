@@ -1,0 +1,1 @@
+export const menu = ['Pizza', 'Salads', 'Desserts', 'Beverage'];
